@@ -13,3 +13,4 @@ will be rebase
 =======
 master branch commit2
 >>>>>>> master branch_commit2
+will be merged by pull request
